@@ -4,6 +4,10 @@
  * @author LC
  */
 class HelloJava {
+	public void main(){
+		afficherCancan();
+	}
+	
 	public void afficherCancan(){
 		System.out.println("c tp ai suuuuuuuuperre!");
 		System.out.println("Je dirai meme plus, super.");
