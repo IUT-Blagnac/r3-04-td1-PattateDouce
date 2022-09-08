@@ -9,5 +9,7 @@ class HelloJava {
 		System.out.println("Je dirai meme plus, super.");
 		System.out.println("et pourquoi pas sus père");
 		System.out.println("NON");
+		System.out.println("conflit de merge");
+    System.out.println("conflit réglé");
 	}
 }
