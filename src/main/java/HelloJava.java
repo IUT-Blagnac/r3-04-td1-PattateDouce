@@ -8,7 +8,7 @@ class HelloJava {
 		afficherCancan();
 	}
 	
-	public void afficherCancan(){
+	public static void afficherCancan(){
 		System.out.println("c tp ai suuuuuuuuperre!");
 		System.out.println("Je dirai meme plus, super.");
 		System.out.println("et pourquoi pas sus père");
