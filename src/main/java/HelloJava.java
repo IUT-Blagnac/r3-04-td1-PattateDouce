@@ -4,11 +4,11 @@
  * @author LC
  */
 class HelloJava {
-	public void main(String[] args){
+	public static void main(String[] args){
 		afficherCancan();
 	}
 	
-	public void afficherCancan(){
+	public static void afficherCancan(){
 		System.out.println("c tp ai suuuuuuuuperre!");
 		System.out.println("Je dirai meme plus, super.");
 		System.out.println("et pourquoi pas sus père");
